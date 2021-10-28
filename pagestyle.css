@@ -28,7 +28,7 @@ label{
     font-size: 17px;  
     margin-left: 35px;
 }  
-#Uname{  
+#Uname12{  
     width: 300px;  
     height: 30px;  
     border: none;  
@@ -36,7 +36,7 @@ label{
     padding-left: 8px;  
     margin-left: 35px;
 }  
-#Pass{  
+#Pass12{  
     width: 300px;  
     height: 30px;  
     border: none;  
@@ -45,17 +45,7 @@ label{
     margin-left: 35px; 
       
 }  
-#log{  
-    width: 300px;  
-    height: 30px;  
-    border: none;  
-    border-radius: 17px;  
-    padding-left: 7px;  
-    color: blue;  
-    margin-left: 35px;
   
-  
-}  
 span{  
     color: white;  
     font-size: 17px;  
