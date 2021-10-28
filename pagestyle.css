@@ -28,7 +28,7 @@ label{
     font-size: 17px;  
     margin-left: 35px;
 }  
-#Uname{  
+#Uname1{  
     width: 300px;  
     height: 30px;  
     border: none;  
@@ -36,7 +36,7 @@ label{
     padding-left: 8px;  
     margin-left: 35px;
 }  
-#Pass{  
+#Pass1{  
     width: 300px;  
     height: 30px;  
     border: none;  
@@ -62,5 +62,5 @@ span{
 }  
 a{  
     float: right;  
-    background-color: grey;  
+    
 } 
